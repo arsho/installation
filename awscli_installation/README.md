@@ -27,21 +27,12 @@ You will get something like `aws-cli/1.11.63 Python/3.5.2 Windows/10 botocore/1.
 
 * Open Command Prompt(CMD) and do the following.
 * `aws configure`
-* AWS Access Key ID [None]: YOUR-AWS-USER-KEY-ID
-* AWS Secret Access Key [None]: YOUR-AWS-USER-SECRET-ACCESS-KEY 
-* Default region name [None]: us-east-1
-* Default output format [None]: json
+* `AWS Access Key ID [None]: YOUR-AWS-USER-KEY-ID`
+* `AWS Secret Access Key [None]: YOUR-AWS-USER-SECRET-ACCESS-KEY`
+* `Default region name [None]: us-east-1`
+* `Default output format [None]: json`
 
-#### Step 5: Configure AWSCLI
-
-* Open Command Prompt(CMD) and do the following.
-* `aws configure`
-* AWS Access Key ID [None]: YOUR-AWS-USER-KEY-ID
-* AWS Secret Access Key [None]: YOUR-AWS-USER-SECRET-ACCESS-KEY 
-* Default region name [None]: us-east-1
-* Default output format [None]: json
-
-#### Step 6: Confirm installation of AWSCLI
+#### Step 5: Confirm installation of AWSCLI
 
 * Open Command Prompt(CMD) and list all the buckets of your AWS.
 * `aws s3 ls`
