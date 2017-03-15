@@ -5,7 +5,7 @@ Step by step installation guideline of various packages and libraries.
 
 * Quick summary
 * Version Controlling
-* [Issue Tracking](https://bitbucket.org/datamatews/sudoku_solver/issues/)
+* [Issue Tracking](https://github.com/arsho/installation/issues)
 
 ### How do I get set up?
 
@@ -54,7 +54,7 @@ The following steps can be done using Git Shell(Windows) or Ubuntu terminal.
 * Ubuntu 16.04 LTS
 * Windows 10 (64 bit)
 
-#### Screenshot of current version
+#### Screenshot of various installation
 
 * See attached `screenshot` folder in this repository.
 * Add `Youtube` URL if any.
