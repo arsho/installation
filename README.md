@@ -83,3 +83,5 @@ The following steps can be done using Git Shell(Windows) or Ubuntu terminal.
 * Development Status :: 5 - Production/Stable
 * Development Status :: 6 - Mature
 * Development Status :: 7 - Inactive
+
+## Feel free to contribute
