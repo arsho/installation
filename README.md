@@ -7,6 +7,7 @@ Step by step installation guideline of various packages and libraries.
 | MySQL | Relational database management system | [Installation procedure](MySQL_installation/) |
 | phpMyAdmin_installation | Administration tool for MySQL | [Installation procedure](phpMyAdmin_installation/) |
 | Filezilla | FTP client application | [Installation procedure](Filezilla_installation/) |
+| Node React Yarn | Javascript | [Installation procedure](node_react_yarn_installation) |
 
 
 
