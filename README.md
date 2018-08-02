@@ -1,9 +1,18 @@
 # Installation
 Step by step installation guideline of various packages and libraries.
 
+| Title | Description | Procedure |
+| --- | --- | --- |
+| AWSCLI | Amazon Web Services Command Line Interface | [Installation procedure](awscli_installation/) |
+| MySQL | Relational database management system | [Installation procedure](MySQL_installation/) |
+| phpMyAdmin_installation | Administration tool for MySQL | [Installation procedure](phpMyAdmin_installation/) |
+| Filezilla | FTP client application | [Installation procedure](Filezilla_installation/) |
+
+
+
 ### What is this repository for?
 
-* Quick summary
+* Various installation procedure
 * Version Controlling
 * [Issue Tracking](https://github.com/arsho/installation/issues)
 
