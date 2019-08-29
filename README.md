@@ -3,7 +3,7 @@ Step by step installation guideline of various packages and libraries.
 
 | Title | Description | Procedure |
 | --- | --- | --- |
-| LAMP | Apache, MySQL, PHP, phpMyAdmin | [Installation procedure](lamp/) |
+| LAMP | Apache, MySQL, PHP, phpMyAdmin | [Installation procedure](lamp_installation/) |
 | AWSCLI | Amazon Web Services Command Line Interface | [Installation procedure](awscli_installation/) |
 | MySQL | Relational database management system | [Installation procedure](MySQL_installation/) |
 | phpMyAdmin_installation | Administration tool for MySQL | [Installation procedure](phpMyAdmin_installation/) |
@@ -42,7 +42,7 @@ The following steps can be done using Git Shell(Windows) or Ubuntu terminal.
 
 * Open git client (Git shell / terminal) and do the following steps.
 * `git pull --all`
-* `git add .`
+* `git add --all`
 * `git commit -m "Commit message"`
 * `git push -u origin master`
 
@@ -52,7 +52,7 @@ The following steps can be done using Git Shell(Windows) or Ubuntu terminal.
 * CD to a directory in local PC.
 * Opened git client and did the following steps.
 * `git clone https://github.com/arsho/installation.git`
-* `git add .`
+* `git add --all`
 * `git commit -m "First commit"`
 * `git push -u origin master`
 
