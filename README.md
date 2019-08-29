@@ -3,6 +3,7 @@ Step by step installation guideline of various packages and libraries.
 
 | Title | Description | Procedure |
 | --- | --- | --- |
+| LAMP | Apache, MySQL, PHP, phpMyAdmin | [Installation procedure](lamp/) |
 | AWSCLI | Amazon Web Services Command Line Interface | [Installation procedure](awscli_installation/) |
 | MySQL | Relational database management system | [Installation procedure](MySQL_installation/) |
 | phpMyAdmin_installation | Administration tool for MySQL | [Installation procedure](phpMyAdmin_installation/) |
@@ -62,6 +63,7 @@ The following steps can be done using Git Shell(Windows) or Ubuntu terminal.
 #### Tested OS
 
 * Ubuntu 16.04 LTS
+* Ubuntu 18.04 LTS
 * Windows 10 (64 bit)
 
 #### Screenshot of various installation
